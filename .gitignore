@@ -1,0 +1,6 @@
+.venv
+*.wav
+VALL-E-X
+.vagrant
+.vscode
+*.exe
